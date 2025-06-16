@@ -23,4 +23,5 @@ Choropleth map (Installs by Category and Country)
 
 Bar charts (Sentiment distribution)
 
-
+# Result
+![alt image](https://github.com/vijayvj86/Google-playstore-review-Analytics/blob/bb154fbc8e67dfe4f084137efe96c16df0b66797/Screenshot%202025-06-16%20230052.png)
